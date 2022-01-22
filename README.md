@@ -8,7 +8,7 @@ Testing out this profile readme :D
 - 🌱 I’m currently learning deep learning and machine vision
 
 ## &#x1f4c8; GitHub Stats
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunsridher&show_icons=true&locale=en&layout=compact&theme=radical" alt="Sagensagen" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sagensagen&show_icons=true&locale=en&layout=compact&theme=radical" alt="Sagensagen" /></p>
 
 ### 🛠 &nbsp;Tech Stack
 
