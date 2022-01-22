@@ -8,6 +8,7 @@ Testing out this profile readme :D
 - 🌱 I’m currently learning deep learning and machine vision
 
 ## &#x1f4c8; GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagensagen)](https://github.com/anuraghazra/github-readme-stats)
 ### 🛠 &nbsp;Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
