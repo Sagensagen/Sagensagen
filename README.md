@@ -8,7 +8,7 @@ Testing out this profile readme :D
 - 🌱 I’m currently learning deep learning and machine vision
 
 ## &#x1f4c8; GitHub Stats
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=XynoxTheDev&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagensagen)](https://github.com/anuraghazra/github-readme-stats)
 ### 🛠 &nbsp;Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
