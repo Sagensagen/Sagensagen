@@ -9,6 +9,7 @@ Testing out this profile readme :D
 
 ## &#x1f4c8; GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagensagen&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagensagen)](https://github.com/anuraghazra/github-readme-stats)
 ### 🛠 &nbsp;Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
