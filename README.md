@@ -4,9 +4,9 @@ Testing out this profile readme :D
 
 
 
-- 🔭 I’m currently working on a BSc in CS
-- 🌱 I’m currently learning deep learning and machine vision
-
+- 🔭 I’m currently working on a BSc in CS, UIT, Norway
+- 🌱 Currently fascinated in learning deep learning and machine vision
+https://incoherency.co.uk/image-steganography/#unhidehttps://incoherency.co.uk/image-steganography/#unhidehttps://incoherency.co.uk/image-steganography/#unhide
 ## &#x1f4c8; GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagensagen&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <br />
