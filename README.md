@@ -25,4 +25,4 @@ https://incoherency.co.uk/image-steganography/#unhidehttps://incoherency.co.uk/i
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-[![Build Status](https://travis-ci.org/gz/rust-x86.svg)](https://travis-ci.org/gz/rust-x86) [![Crates.io](https://img.shields.io/crates/v/x86.svg)](https://crates.io/crates/x86)
+
