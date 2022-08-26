@@ -11,7 +11,6 @@ Testing out this profile readme :D
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagensagen&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-*Most code is written in C in private repositories, not accessable by the API used above*.
 ### 🛠 &nbsp;Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
