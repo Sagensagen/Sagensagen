@@ -1,17 +1,17 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Testing out this profile readme :D
 
 
 
-- 🔭 I’m currently working on a BSc in CS, UIT, Norway
-- 🌱 Currently fascinated in learning web development and some ML.
+
+- 🔭 I’m currently working on a Msc in CS, UIT, Norway
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/fsharp.png" width="20"/>Atm suffering in F# 
 ## &#x1f4c8; GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagensagen&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagensagen&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-### 🛠 &nbsp;Tech Stack
+<!--### 🛠 &nbsp;Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
