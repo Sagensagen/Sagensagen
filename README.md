@@ -7,7 +7,7 @@
 - 🔭 I’m currently studying for a Msc in CS, UIT, Norway
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/fsharp.png" width="20"/>Atm suffering in F# 
 ## &#x1f4c8; GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagensagen&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagensagen&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagensagen&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <br />
